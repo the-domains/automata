@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 26 Aug 2015 17:05:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015]]></title>
+            <description><![CDATA[<article><h1>Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015</h1><p>Our tent isn't even up and my friendly neighbor has already hacked his electronic name badge and, in honor of us, changed its display to a ASCII version of the VICE logo.</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24790/1440021527756475.jpg"></article>]]></description>
+            <link>http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015</link>
+            <guid isPermaLink="false">bb1a8738-0fba-4fb9-95e5-f7d0f1ed34dc</guid>
+            <pubDate>Wed, 26 Aug 2015 17:04:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
