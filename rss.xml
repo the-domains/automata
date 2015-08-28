@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 28 Aug 2015 00:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2015 00:13:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[20 Jahre c-base: Die Geschichte des futuristischsten Hackerspace der Welt]]></title>
+            <description><![CDATA[<article><h1>20 Jahre c-base: Die Geschichte des futuristischsten Hackerspace der Welt</h1><p>Die c-base in Berlin-Mitte, das sind die Überreste einer abgestürzten, 4,5 Milliarden Jahre alten Raumstation, zumindest, wenn man der Pressemappe glaubt. Nur die Antenne der unterirdischen, scheibenförmigen Station ragt noch am Alexanderplatz aus der Erde, so die Legende-Amateure nennen sie „Fernsehturm".</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24595/1439482286454189.jpg"></article>]]></description>
+            <link>http://motherboard.vice.com/de/read/20-jahre-c-base-die-geschichte-des-futuristischsten-hackerspace-der-welt</link>
+            <guid isPermaLink="false">e512f5b3-dd5e-40ee-a4a4-fc082e8b87d3</guid>
+            <pubDate>Fri, 28 Aug 2015 00:13:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CCCamp 2015 (123)]]></title>
             <description><![CDATA[<article><h1>CCCamp 2015 (123)</h1><img src="https://farm1.staticflickr.com/761/20002917384_8b5611e883_b.jpg"></article>]]></description>
