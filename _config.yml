@@ -1,0 +1,28 @@
+name: automata
+favicon: null
+layout_spectrum: 0.32414
+typography_spectrum: 0.28621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e9e9e9'
+    - '#bdbcbc'
+    - '#a4a3a3'
+    - '#989393'
+    - '#7a7373'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.5
+purpose: []
