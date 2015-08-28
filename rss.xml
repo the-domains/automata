@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 27 Aug 2015 15:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2015 00:13:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chaos Communication Camp 2015]]></title>
+            <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><img src="https://c2.staticflickr.com/6/5735/20528536291_c6bf4205b8_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/blinkenarea/sets/72157656744791999/</link>
+            <guid isPermaLink="false">943d84b0-a2e1-41e2-a14f-cfe4e589a135</guid>
+            <pubDate>Fri, 28 Aug 2015 00:13:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb90040-aaae-4633-ae74-38df275ed1b0.jpg">]]></description>
