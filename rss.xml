@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[automata]]></title>
+        <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 28 Aug 2015 00:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2015 17:15:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How yuppies hacked the hacker ethos - Brett Scott - Aeon]]></title>
+            <description><![CDATA[<article><h1>How yuppies hacked the hacker ethos - Brett Scott - Aeon</h1><p>Any large and alienating infrastructure controlled by a technocratic elite is bound to provoke. In particular, it will nettle those who want to know how it works, those who like the thrill of transgressing, and those who value the principle of open access.</p><img src="http://cdn-imgs-mag.aeon.co/images/2015/07/00192327-960x601.jpg"></article>]]></description>
+            <link>http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/</link>
+            <guid isPermaLink="false">e54c8a99-9308-4379-a6d0-0dbffa1d5b22</guid>
+            <pubDate>Sat, 29 Aug 2015 17:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;Flowhub&lowbar;io&comma; &commat;thegrid and chimarr&atilde;o&period; Nice match for a rainy day&period;" src="https://pbs.twimg.com/media/CNbuBamWoAQ_vrl.jpg:large">]]></description>
