@@ -5,8 +5,15 @@
         <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 19:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 20:12:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[we are working on a genetic programming...]]></title>
+            <description><![CDATA[<article><h1>we are working on a genetic programming...</h1><p>we are working on a genetic programming algorithm to generate contours based on a given example. each line is a population ordered from best to poor fitness. each individual have a genotype (draw instructions) and a fenotype (the draw itself). it is interesting to see how individuals make clusters of similar contours evolving to a &lsquo;zig-zag&rsquo; pattern.</p><img src="http://40.media.tumblr.com/tumblr_mcs03cm2uA1qc8g47o1_500.png"></article>]]></description>
+            <link>http://aut0mata.tumblr.com/post/34719934049/we-are-working-on-a-genetic-programming-algorithm</link>
+            <guid isPermaLink="false">0f8c9195-e927-4442-93ba-40043b45f3cd</guid>
+            <pubDate>Tue, 01 Sep 2015 20:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda]]></title>
             <description><![CDATA[<article><h1>Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda</h1><p>Um ventilador com lâmpadas de led acopladas a suas pás promove um show de luzes, enquanto drones equipados com incensos se revezam ao defumar o ambiente que, por sua vez, é musicado com trilhas trabalhadas, aguçando ao máximo os sentidos dos participantes.</p><img src="http://extra.globo.com/incoming/17326226-b7d-4f0/w976h550/abertura-festival.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/automata/chaos-communication-camp-2015/index.html</link>
             <guid isPermaLink="false">9d8eabd5-eda8-4496-a076-d0cc2fd0c4dc</guid>
             <pubDate>Wed, 26 Aug 2015 17:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015</h1><p>Our tent isn't even up and my friendly neighbor has already hacked his electronic name badge and, in honor of us, changed its display to a ASCII version of the VICE logo.</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24790/1440021527756475.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015</link>
-            <guid isPermaLink="false">bb1a8738-0fba-4fb9-95e5-f7d0f1ed34dc</guid>
-            <pubDate>Wed, 26 Aug 2015 17:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
