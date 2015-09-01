@@ -1,7 +1,7 @@
 name: automata
 favicon: null
-layout_spectrum: 0.74483
-typography_spectrum: 0.28621
+layout_spectrum: 0.74138
+typography_spectrum: 0.74138
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#a4a3a3'
     - '#989393'
     - '#7a7373'
-  brandStrength: 0.75
-  lightness: 0.5
+  brandStrength: 0.9375
+  lightness: 1
   saturation: 0.625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
