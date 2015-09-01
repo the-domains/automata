@@ -5,8 +5,15 @@
         <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 20:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 20:25:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Coder, artist, maker. I create algorithms that create at The Grid. Web is my canvas. My current focus is on alternative interfaces to computer programming, hackable & sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by Twitter ,Github ,Flickr,Tumblr ,SoundCloud or the old-fashion Email. Thank you for your visit.</p>]]></description>
+            <link>https://thegrid.ai/automata/b500c226-97f8-4069-ba6d-4c01d546aeea/index.html</link>
+            <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
+            <pubDate>Tue, 01 Sep 2015 20:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[we are working on a genetic programming...]]></title>
             <description><![CDATA[<article><h1>we are working on a genetic programming...</h1><p>we are working on a genetic programming algorithm to generate contours based on a given example. each line is a population ordered from best to poor fitness. each individual have a genotype (draw instructions) and a fenotype (the draw itself). it is interesting to see how individuals make clusters of similar contours evolving to a &lsquo;zig-zag&rsquo; pattern.</p><img src="http://40.media.tumblr.com/tumblr_mcs03cm2uA1qc8g47o1_500.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.survivalinternational.org/ultimas-noticias/10885</link>
             <guid isPermaLink="false">3eeb6255-031e-4f2b-ab7e-2a63f790d341</guid>
             <pubDate>Thu, 27 Aug 2015 15:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><p>Some impressions about CCCamp 2015</p></article>]]></description>
-            <link>https://thegrid.ai/automata/chaos-communication-camp-2015/index.html</link>
-            <guid isPermaLink="false">9d8eabd5-eda8-4496-a076-d0cc2fd0c4dc</guid>
-            <pubDate>Wed, 26 Aug 2015 17:22:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
