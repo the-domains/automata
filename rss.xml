@@ -5,7 +5,7 @@
         <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Sep 2015 13:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 13:51:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -34,13 +34,6 @@
             <link>https://twitter.com/aut0mata/status/636958128207216641</link>
             <guid isPermaLink="false">71b05304-011b-4333-8058-c0c3549849ea</guid>
             <pubDate>Fri, 28 Aug 2015 00:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCCamp 2015 (123)]]></title>
-            <description><![CDATA[<article><h1>CCCamp 2015 (123)</h1><img src="https://farm1.staticflickr.com/761/20002917384_8b5611e883_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/blinkenarea/20002917384/in/album-72157656744791999/</link>
-            <guid isPermaLink="false">bf5b53b7-ff0d-42e2-84f0-44a578391c26</guid>
-            <pubDate>Fri, 28 Aug 2015 00:13:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
