@@ -5,7 +5,7 @@
         <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Sep 2015 09:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 09:47:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,13 +27,6 @@
             <link>https://thegrid.ai/automata/genetic-programming-to-shape-evolving/index.html</link>
             <guid isPermaLink="false">677b7721-8220-4cf5-bec0-c4bbc960852d</guid>
             <pubDate>Wed, 02 Sep 2015 02:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[we are working on a genetic programming...]]></title>
-            <description><![CDATA[<article><h1>we are working on a genetic programming...</h1><p>we are working on a genetic programming algorithm to generate contours based on a given example. each line is a population ordered from best to poor fitness. each individual have a genotype (draw instructions) and a fenotype (the draw itself). it is interesting to see how individuals make clusters of similar contours evolving to a &lsquo;zig-zag&rsquo; pattern.</p><img src="http://40.media.tumblr.com/tumblr_mcs03cm2uA1qc8g47o1_500.png"></article>]]></description>
-            <link>http://aut0mata.tumblr.com/post/34719934049/we-are-working-on-a-genetic-programming-algorithm</link>
-            <guid isPermaLink="false">0f8c9195-e927-4442-93ba-40043b45f3cd</guid>
-            <pubDate>Tue, 01 Sep 2015 20:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda]]></title>
