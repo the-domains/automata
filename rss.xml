@@ -5,7 +5,7 @@
         <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Sep 2015 02:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 02:50:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/automata/b500c226-97f8-4069-ba6d-4c01d546aeea/index.html</link>
             <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
             <pubDate>Tue, 01 Sep 2015 20:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Genetic programming to contours generation]]></title>
+            <description><![CDATA[<article><h1>Genetic programming to contours generation</h1><p>We are working on a genetic programming algorithm to generate contours based on a given example.  Each line is a population ordered from best to poor fitness. Each individual have a genotype (draw instructions) and a fenotype (the draw itself).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c54e0f-057a-4d0f-b466-2a911cb70b5d.png"></article>]]></description>
+            <link>https://thegrid.ai/automata/genetic-programming-to-contours-generation/index.html</link>
+            <guid isPermaLink="false">d447f92d-cc21-4c5f-aa01-0f6d33f44fc9</guid>
+            <pubDate>Wed, 02 Sep 2015 02:49:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Genetic programming to shape evolving]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>CCCamp 2015 (123)</h1><img src="https://farm1.staticflickr.com/761/20002917384_8b5611e883_b.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/blinkenarea/20002917384/in/album-72157656744791999/</link>
             <guid isPermaLink="false">bf5b53b7-ff0d-42e2-84f0-44a578391c26</guid>
-            <pubDate>Fri, 28 Aug 2015 00:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><img src="https://c2.staticflickr.com/6/5735/20528536291_c6bf4205b8_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/blinkenarea/sets/72157656744791999/</link>
-            <guid isPermaLink="false">943d84b0-a2e1-41e2-a14f-cfe4e589a135</guid>
             <pubDate>Fri, 28 Aug 2015 00:13:15 GMT</pubDate>
         </item>
     </channel>
