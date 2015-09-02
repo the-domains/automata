@@ -5,7 +5,7 @@
         <description><![CDATA[automata]]></description>
         <link>https://thegrid.ai/automata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 22:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 02:31:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automata/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/automata/b500c226-97f8-4069-ba6d-4c01d546aeea/index.html</link>
             <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
             <pubDate>Tue, 01 Sep 2015 20:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Genetic programming to shape evolving]]></title>
+            <description><![CDATA[<article><h1>Genetic programming to shape evolving</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b99a04-99a6-4c74-a773-49ba54e8c955.png"></article>]]></description>
+            <link>https://thegrid.ai/automata/genetic-programming-to-shape-evolving/index.html</link>
+            <guid isPermaLink="false">677b7721-8220-4cf5-bec0-c4bbc960852d</guid>
+            <pubDate>Wed, 02 Sep 2015 02:30:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Genetic programming for shapes generation]]></title>
@@ -69,12 +76,6 @@
             <link>https://www.flickr.com/photos/blinkenarea/sets/72157656744791999/</link>
             <guid isPermaLink="false">943d84b0-a2e1-41e2-a14f-cfe4e589a135</guid>
             <pubDate>Fri, 28 Aug 2015 00:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb90040-aaae-4633-ae74-38df275ed1b0.jpg">]]></description>
-            <guid isPermaLink="false">49ed452b-4dc8-4af4-ad2d-af072d9c5f25</guid>
-            <pubDate>Wed, 05 Aug 2015 19:40:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
