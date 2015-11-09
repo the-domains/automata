@@ -4,7 +4,7 @@
         <description><![CDATA[automata]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 14:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 18:37:55 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 19 Oct 2015 16:33:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chaos Communication Camp 2015]]></title>
+            <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><p>Some impressions about CCCamp 2015</p></article>]]></description>
+            <link>http://automata.cc/chaos-communication-camp-2015/index.html</link>
+            <guid isPermaLink="false">9d8eabd5-eda8-4496-a076-d0cc2fd0c4dc</guid>
+            <pubDate>Mon, 09 Nov 2015 18:37:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
             <description><![CDATA[<article><h1>A quantitative approach to arts and philosophy</h1><p>In 2013 I defended that we can measure concepts like dialectics, innovation and opposition, using it to analyze the evolution of arts and philosophy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg"></article>]]></description>
             <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
             <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
             <pubDate>Mon, 09 Nov 2015 14:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chiptune]]></title>
-            <description><![CDATA[<article><h1>chiptune</h1><p>Your Page Description</p><img src="https://lh3.googleusercontent.com/6qS_c7fsvKlukN-pHMbAPITG9qaCn7BAG246i2LSMnQ=w876-h657-no"></article>]]></description>
-            <link>http://automata.cc/chiptune</link>
-            <guid isPermaLink="false">d33b6db2-fd4d-4941-886f-02c4772bdb65</guid>
-            <pubDate>Mon, 09 Nov 2015 13:59:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generative Paintings by Delaunay Triangulation]]></title>
