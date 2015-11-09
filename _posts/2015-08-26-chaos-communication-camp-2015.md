@@ -1,11 +1,10 @@
 ---
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Some impressions about CCCamp 2015
 title: Chaos Communication Camp 2015
-dateModified: '2015-08-26T17:22:45.228Z'
+dateModified: '2015-08-26T17:22:45.765Z'
 tags:
   - ccc
   - ccc15
@@ -16,9 +15,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-08-26T17:22:45.228Z'
+datePublished: '2015-11-09T18:37:16.424Z'
 sourcePath: _posts/2015-08-26-chaos-communication-camp-2015.md
 published: true
+inFeed: true
+hasPage: true
+inNav: false
 url: chaos-communication-camp-2015/index.html
 _type: Article
 
