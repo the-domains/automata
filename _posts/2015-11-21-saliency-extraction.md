@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: How we are teaching our Artificial Intelligence to see
-datePublished: '2015-11-21T21:43:34.478Z'
-dateModified: '2015-11-21T21:31:35.351Z'
-title: Saliency extraction
+datePublished: '2015-11-21T22:15:43.009Z'
+dateModified: '2015-11-21T22:15:34.556Z'
+title: "The Grid's Eyes"
 author: []
+sourcePath: _posts/2015-11-21-saliency-extraction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-21-saliency-extraction.md
-published: true
 url: saliency-extraction/index.html
 _type: Article
 
 ---
+# The Grid's Eyes
+
 Since last year I'm working together with [Jon Nordby][0], [Henri Bergius][1] and [Gabriela Thumé][2] on an image analytics pipeline to [The Grid][3]. Basically, we are teaching our AI to identify patterns and extract relevant information from raw image data.
 
 We apply algorithms and techniques from the Computer Vision field. Combined with hand picked datasets we can create _extractors_ for features we are interested in. With that our AI can answer questions like _"what is a good color palette from this image?"_, _"where is the best place to crop that picture?"_ or _"can we place text on top of this image? and where?"_.
