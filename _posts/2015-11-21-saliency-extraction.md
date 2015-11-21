@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How we are teaching our Artificial Intelligence to see
-datePublished: '2015-11-21T22:15:43.009Z'
-dateModified: '2015-11-21T22:15:34.556Z'
+datePublished: '2015-11-21T22:17:36.341Z'
+dateModified: '2015-11-21T22:17:19.910Z'
 title: "The Grid's Eyes"
 author: []
 sourcePath: _posts/2015-11-21-saliency-extraction.md
