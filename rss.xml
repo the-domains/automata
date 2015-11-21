@@ -4,7 +4,7 @@
         <description><![CDATA[automata]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 22:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 22:18:03 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Saliency extraction</h1><p>We apply algorithms and techniques from the Computer Vision field. Combined with hand picked datasets we can create extractors for features we are interested in. With that our AI can answer questions like "what is a good color palette from this image?", "where is the best place to crop that picture?" or "can we place text on top of this image? and where?".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21cd628-9bb1-4a14-8c70-93132207dc76.jpg"></article>]]></description>
             <link>http://automata.cc/saliency-extraction/index.html</link>
             <guid isPermaLink="false">1fffc769-1347-4eb5-b209-3cb246580ec8</guid>
-            <pubDate>Sat, 21 Nov 2015 22:15:43 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 22:17:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chaos Communication Camp 2015]]></title>
