@@ -4,7 +4,7 @@
         <description><![CDATA[automata]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 00:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2015 18:57:23 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://automata.cc/b500c226-97f8-4069-ba6d-4c01d546aeea/index.html</link>
             <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
             <pubDate>Mon, 19 Oct 2015 16:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="that&apos;s awesome&comma; people from http&colon;&sol;&sol;www&period;artbiobrasil&period;org&sol; used a generative image I did some time ago to stamp slippers&excl;" src="https://pbs.twimg.com/media/CUb_6NFW4AUYgAh.jpg:large">]]></description>
+            <link>https://twitter.com/aut0mata/status/668502971865538560</link>
+            <guid isPermaLink="false">66e02786-e504-42c0-bc5e-f2c538a3a747</guid>
+            <pubDate>Sun, 22 Nov 2015 18:56:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discovering salient regions]]></title>
