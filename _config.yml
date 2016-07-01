@@ -2,6 +2,7 @@ name: automata
 favicon: null
 layout_spectrum: 0.269589
 typography_spectrum: 0.74138
+style: the-composer
 cta:
   domain: null
   bucket: null
