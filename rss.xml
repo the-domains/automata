@@ -4,7 +4,7 @@
         <description><![CDATA[automata]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 03:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:20:05 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,38 +43,31 @@
         </item>
         <item>
             <title><![CDATA[Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><p>Some impressions about CCCamp 2015</p></article>]]></description>
+            <description><![CDATA[Some impressions about CCCamp 2015]]></description>
             <link>http://automata.cc/chaos-communication-camp-2015/index.html</link>
             <guid isPermaLink="false">9d8eabd5-eda8-4496-a076-d0cc2fd0c4dc</guid>
             <pubDate>Mon, 09 Nov 2015 18:37:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
-            <description><![CDATA[<article><h1>A quantitative approach to arts and philosophy</h1><p>In 2013 I defended that we can measure concepts like dialectics, innovation and opposition, using it to analyze the evolution of arts and philosophy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f2541f97f079991bc645f28145d611d19b3891b.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg">]]></description>
             <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
             <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
             <pubDate>Mon, 09 Nov 2015 14:36:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generative Paintings by Delaunay Triangulation]]></title>
-            <description><![CDATA[<article><h1>Generative Paintings by Delaunay Triangulation</h1><p>http://github.com/automata/tri-delaunay</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7e1ffe626947f2c10f0da45185f4856ea27dd5a.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9d9050-e86b-4266-9486-cda993404ffa.jpg">]]></description>
             <link>http://automata.cc/generative-paintings-by-delaunay-triangulation/index.html</link>
             <guid isPermaLink="false">4a2c3329-536c-410f-b69f-8b256084da3c</guid>
             <pubDate>Sat, 26 Mar 2016 03:44:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circles of dots]]></title>
-            <description><![CDATA[<article><h1>Circles of dots</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa42ea4a66bfd4a58dacfa53eac1204e7247e958.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2dc6b9-05a2-4329-b565-8b2214a7787a.png">]]></description>
             <link>http://automata.cc/a8c5d89c-a878-4569-b5d0-0d9ee629be8b/index.html</link>
             <guid isPermaLink="false">a8c5d89c-a878-4569-b5d0-0d9ee629be8b</guid>
             <pubDate>Mon, 19 Oct 2015 16:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Genetic programming to shape evolving]]></title>
-            <description><![CDATA[<article><h1>Genetic programming to shape evolving</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c84aad0a8c088d36903666c654e4d2f1e1beb815.png"></article>]]></description>
-            <link>http://automata.cc/genetic-programming-to-shape-evolving/index.html</link>
-            <guid isPermaLink="false">677b7721-8220-4cf5-bec0-c4bbc960852d</guid>
-            <pubDate>Wed, 02 Sep 2015 02:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
