@@ -4,8 +4,15 @@
         <description><![CDATA[Vilson Vieira]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Sep 2016 18:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 18:25:58 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Coder and artist. I create algorithms that create at The Grid. My current focus is on artificial intelligence, alternative interfaces to computer programming, hackable & sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by Twitter ,Github ,Flickr, SoundCloud or the old-fashion Email. Thank you for your visit.</p>]]></description>
+            <link>http://automata.cc/coder-and-artist-i-create-algorithms-that-create-at-the-gri/index.html</link>
+            <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
+            <pubDate>Mon, 05 Sep 2016 18:25:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid’s Eyes]]></title>
             <description><![CDATA[<article><h1>The Grid’s Eyes</h1><p>We apply algorithms and techniques from the Computer Vision field. Combined with hand picked datasets we can create extractors for features we are interested in. With that our AI can answer questions like "what is a good color palette from this image?", "where is the best place to crop that picture?" or "can we place text on top of this image? and where?".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2ed61a18de752ff2baddf11e22e94951a444f58.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
             <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
             <pubDate>Mon, 05 Sep 2016 18:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coder and artist. I create algorithms that create at The Grid. My current focus is on artificial intelligence, alternative interfaces to computer programming, hackable & sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by Twitter ,Github ,Flickr, SoundCloud or the old-fashion Email. Thank you for your visit.</p>]]></description>
-            <link>http://automata.cc/coder-and-artist-i-create-algorithms-that-create-at-the-gri/index.html</link>
-            <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
-            <pubDate>Mon, 05 Sep 2016 18:09:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Every street in Brazil]]></title>
