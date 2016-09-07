@@ -4,7 +4,7 @@
         <description><![CDATA[Vilson Vieira]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Sep 2016 18:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 18:24:22 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid’s Eyes]]></title>
@@ -12,6 +12,13 @@
             <link>http://automata.cc/discovering-salient-regions/index.html</link>
             <guid isPermaLink="false">1fffc769-1347-4eb5-b209-3cb246580ec8</guid>
             <pubDate>Mon, 05 Sep 2016 18:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg">]]></description>
+            <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
+            <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
+            <pubDate>Mon, 05 Sep 2016 18:24:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>http://automata.cc/generative-paintings-by-delaunay-triangulation/index.html</link>
             <guid isPermaLink="false">4a2c3329-536c-410f-b69f-8b256084da3c</guid>
             <pubDate>Mon, 05 Sep 2016 18:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg">]]></description>
-            <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
-            <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
-            <pubDate>Mon, 05 Sep 2016 15:14:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Genetic programming to shape evolving]]></title>
