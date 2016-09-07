@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[automata]]></title>
-        <description><![CDATA[automata]]></description>
+        <title><![CDATA[Vilson Vieira]]></title>
+        <description><![CDATA[Vilson Vieira]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Sep 2016 18:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 18:09:34 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coder and artist. I create algorithms that create at The Grid. My current focus is on alternative interfaces to computer programming, hackable & sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by Twitter ,Github ,Flickr, SoundCloud or the old-fashion Email. Thank you for your visit.</p>]]></description>
+            <description><![CDATA[<p>Coder and artist. I create algorithms that create at The Grid. My current focus is on artificial intelligence, alternative interfaces to computer programming, hackable & sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by Twitter ,Github ,Flickr, SoundCloud or the old-fashion Email. Thank you for your visit.</p>]]></description>
             <link>http://automata.cc/coder-and-artist-i-create-algorithms-that-create-at-the-gri/index.html</link>
             <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
-            <pubDate>Mon, 05 Sep 2016 18:04:27 GMT</pubDate>
+            <pubDate>Mon, 05 Sep 2016 18:09:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discovering salient regions]]></title>
