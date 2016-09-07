@@ -5,15 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-09-05T15:14:36.945Z'
-dateModified: '2016-09-05T15:14:34.810Z'
+datePublished: '2016-09-05T18:24:18.905Z'
+dateModified: '2016-09-05T18:24:18.390Z'
 title: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2015-11-09-a-quantitative-approach-to-arts-and-philosophy.md
 author: []
 via: {}
