@@ -4,7 +4,7 @@
         <description><![CDATA[automata]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 15:14:37 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://automata.cc/b500c226-97f8-4069-ba6d-4c01d546aeea/index.html</link>
             <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
             <pubDate>Mon, 19 Oct 2015 16:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Genetic programming to shape evolving]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b99a04-99a6-4c74-a773-49ba54e8c955.png">]]></description>
+            <link>http://automata.cc/genetic-programming-to-shape-evolving/index.html</link>
+            <guid isPermaLink="false">677b7721-8220-4cf5-bec0-c4bbc960852d</guid>
+            <pubDate>Wed, 31 Aug 2016 22:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generative Paintings by Delaunay Triangulation]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9d9050-e86b-4266-9486-cda993404ffa.jpg">]]></description>
+            <link>http://automata.cc/generative-paintings-by-delaunay-triangulation/index.html</link>
+            <guid isPermaLink="false">4a2c3329-536c-410f-b69f-8b256084da3c</guid>
+            <pubDate>Sat, 26 Mar 2016 03:44:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drawings]]></title>
@@ -47,20 +61,6 @@
             <link>http://automata.cc/chaos-communication-camp-2015/index.html</link>
             <guid isPermaLink="false">9d8eabd5-eda8-4496-a076-d0cc2fd0c4dc</guid>
             <pubDate>Mon, 09 Nov 2015 18:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg">]]></description>
-            <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
-            <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
-            <pubDate>Mon, 09 Nov 2015 14:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generative Paintings by Delaunay Triangulation]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9d9050-e86b-4266-9486-cda993404ffa.jpg">]]></description>
-            <link>http://automata.cc/generative-paintings-by-delaunay-triangulation/index.html</link>
-            <guid isPermaLink="false">4a2c3329-536c-410f-b69f-8b256084da3c</guid>
-            <pubDate>Sat, 26 Mar 2016 03:44:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circles of dots]]></title>
