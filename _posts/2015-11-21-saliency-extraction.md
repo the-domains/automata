@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-05T18:11:37.803Z'
+datePublished: '2016-09-05T18:24:13.105Z'
 sourcePath: _posts/2015-11-21-saliency-extraction.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-05T18:11:36.934Z'
+dateModified: '2016-09-05T18:24:12.354Z'
 title: The Grid’s Eyes
 publisher: {}
 description: >-
