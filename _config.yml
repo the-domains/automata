@@ -10,6 +10,7 @@ color:
   lightness: 1
   saturation: 0.25
   rhythmicContrast: 0.75
+github: true
 opengraph:
   image: null
   type: null
@@ -24,8 +25,12 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Drawings
+    id: 5c33d3ce-282a-4f66-a376-e7934cf00f7f
+    type: content
 favicon: null
 title: Vilson Vieira
+content: []
 description: ''
 purpose: []
-github: true
