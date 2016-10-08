@@ -29,6 +29,9 @@ navigation:
   - name: Drawings
     id: 5c33d3ce-282a-4f66-a376-e7934cf00f7f
     type: content
+  - name: About
+    id: 4a7fb400-62eb-4b77-b89b-82f044b4f523
+    type: content
 favicon: null
 title: Vilson Vieira
 content: []
