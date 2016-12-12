@@ -1,4 +1,3 @@
-layout_spectrum: 0.9289381523153717
 typography_spectrum: 0.6565653085833102
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9289381523153717
 analytics:
   google: null
   facebook: null
@@ -35,5 +35,5 @@ navigation:
 favicon: null
 title: Vilson Vieira
 content: []
-description: ''
+description: a.k.a. Vilson Vieira
 purpose: []
