@@ -4,54 +4,91 @@
         <description><![CDATA[automata]]></description>
         <link>http://automata.cc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Dec 2016 13:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2017 18:51:24 GMT</lastBuildDate>
         <atom:link href="http://automata.cc/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Dec 2016 13:40:35 GMT</pubDate>
+        <pubDate>Mon, 20 Feb 2017 18:50:51 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coder and artist. I create algorithms that create at The Grid. My current focus is on artificial intelligence, alternative interfaces to computer programming, hackable & sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by Twitter ,Github ,Flickr, SoundCloud or the old-fashion Email. Thank you for your visit.</p>]]></description>
+            <description><![CDATA[<p>Coder and artist. I create algorithms that create at <a href="http://thegrid.io/">The Grid</a>. My current focus is on artificial intelligence, alternative interfaces to computer programming, hackable &amp; sustainable structures and creativity exploration. This is a wiki-blog-portfolio hybrid where I collect thoughts, feel free to explore. I love to collaborate, please follow me and keep in touch by <a href="http://twitter.com/aut0mata">Twitter</a> ,<a href="http://github.com/automata">Github</a> ,<a href="http://flickr.com/auto_mata">Flickr</a>, <a href="http://soundcloud.com/aut0mata">SoundCloud</a> or the old-fashion <a href="mailto:vilson@void.cc">Email</a>. Thank you for your visit.</p>]]></description>
             <link>http://automata.cc/coder-and-artist-i-create-algorithms-that-create-at-the-gri/index.html</link>
             <guid isPermaLink="false">b500c226-97f8-4069-ba6d-4c01d546aeea</guid>
             <pubDate>Mon, 05 Sep 2016 18:25:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid’s Eyes]]></title>
-            <description><![CDATA[<article><h1>The Grid’s Eyes</h1><p>We apply algorithms and techniques from the Computer Vision field. Combined with hand picked datasets we can create extractors for features we are interested in. With that our AI can answer questions like "what is a good color palette from this image?", "where is the best place to crop that picture?" or "can we place text on top of this image? and where?".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2ed61a18de752ff2baddf11e22e94951a444f58.jpg"></article>]]></description>
+            <description><![CDATA[<p>We apply algorithms and techniques from the Computer Vision field. Combined with hand picked datasets we can create <em>extractors</em> for features we are interested in. With that our AI can answer questions like <em>"what is a good color palette from this image?"</em>, <em>"where is the best place to crop that picture?"</em> or <em>"can we place text on top of this image? and where?"</em>.</p>,<h1>The Grid’s Eyes</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2ed61a18de752ff2baddf11e22e94951a444f58.jpg">]]></description>
             <link>http://automata.cc/discovering-salient-regions/index.html</link>
             <guid isPermaLink="false">1fffc769-1347-4eb5-b209-3cb246580ec8</guid>
             <pubDate>Mon, 05 Sep 2016 18:24:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg">]]></description>
-            <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
-            <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
-            <pubDate>Mon, 05 Sep 2016 18:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Installing Nvidia drivers, CUDA 8.0 and cuDNN 5.1 for GTX-1060 on Ubuntu 16.04 ]]></title>
-            <description><![CDATA[<article><h1>Installing Nvidia drivers, CUDA 8.0 and cuDNN 5.1 for GTX-1060 on Ubuntu 16.04 </h1><h2>Install Nvidia drives and CUDA 8.0</h2><p>wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.44-1_amd64.deb sudo dpkg -i cuda-repo-ubuntu1604_8.0.44-1_amd64.deb sudo apt-get update sudo apt-get install cuda Restart the computer. Screen should has the right resolution now, Nvidia drivers should be intalled in /usr/local/cuda Edit your `~/.bashrc` and source it: export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}} export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}} Install cuDNN. First signup or login into Nvidia developer program and download it: https://developer.nvidia.com/cudnn You should download: Download cuDNN v5.1 (August 10, 2016), for CUDA 8.0 cuDNN v5.1 Library for Linux Uncompress and copy cuDNN to CUDA directory: tar xvzf cudnn-8.0-linux-x64-v5.1.tgz sudo cp cuda/include/cudnn.h /usr/local/cuda/include sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64 sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn* Now you can already check if CUDA/cuDNN are properlly installed: nvidia-smi Sat Oct 15 22:46:05 2016 +-----------------------------------------------------------------------------+ | NVIDIA-SMI 367.48 Driver Version: 367.48 | |-------------------------------+----------------------+----------------------+ | GPU Name Persistence-M| Bus-Id Disp.A | Volatile Uncorr. ECC | | Fan Temp Perf Pwr:Usage/Cap| Memory-Usage | GPU-Util Compute M. | |===============================+======================+======================| | 0 GeForce GTX 106... Off | 0000:01:00.0 On | N/A | | 0% 35C P8 9W / 120W | 324MiB / 6071MiB | 1% Default | +-------------------------------+----------------------+----------------------+ +-----------------------------------------------------------------------------+ | Processes: GPU Memory | | GPU PID Type Process name Usage | |=============================================================================| | 0 2802 G /usr/lib/xorg/Xorg 167MiB | | 0 3497 G compiz 155MiB | +-----------------------------------------------------------------------------+ Check if building CUDA samples works: cd /usr/local/cuda/samples/5_Simulations/oceanFFT/ make ./oceanFFT ## Install Tensorflow Tensorflow binaries do not support CUDA 8.0 neither cuDNN 5.1 so we have to build it from source. We're going to build TF as a PIP wheel, so we need PIP installed: sudo apt-get install python-pip python-dev Then setup the builder, Bazel, this guy will build the PIP wheel: sudo add-apt-repository ppa:webupd8team/java sudo apt-get update sudo apt-get install oracle-java8-installer echo "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8" | sudo tee /etc/apt/sources.list.d/bazel.list curl https://storage.googleapis.com/bazel-apt/doc/apt-key.pub.gpg | sudo apt-key add - sudo apt-get update sudo apt-get install bazel sudo apt-get upgrade bazel Install other dependencies: sudo apt-get install python-numpy swig python-dev python-wheel Clone TF and configure it: git clone https://github.com/tensorflow/tensorflow cd tensorflow ./configure # Defaults generally work Use Bazel to create the PIP package and install it (with GPU support): bazel build -c opt --config=cuda //tensorflow/tools/pip_package:build_pip_package bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg sudo pip install /tmp/tensorflow_pkg/tensorflow-0.11.0rc0-py2-none-any.whl And that's it! Check if your build is working: cd tensorflow/models/image/mnist python convolutional.py # References - https://yangcha.github.io/GTX-1080/ - https://hackathonprojects.wordpress.com/2016/09/13/installing-10-series-gpus-cuda-8-0rc-and-tensorflow-on-ubuntu-14-04/</p></article>]]></description>
+            <title><![CDATA[Installing Nvidia drivers, CUDA 8.0 and cuDNN 5.1 for GTX-1060 on Ubuntu 16.04]]></title>
+            <description><![CDATA[<h1>Installing Nvidia drivers, CUDA 8.0 and cuDNN 5.1 for GTX-1060 on Ubuntu 16.04</h1>,<h2>Install Nvidia drives and CUDA 8.0</h2>,<pre><code>wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.44-1_amd64.deb
+
+sudo dpkg -i cuda-repo-ubuntu1604_8.0.44-1_amd64.deb
+
+sudo apt-get update sudo apt-get install cuda</code></pre>,<p>Restart the computer. Screen should has the right resolution now, Nvidia drivers should be installed in <em>/usr/local/cuda</em>.</p>,<p>Edit your <em>~/.bashrc</em> and source it:</p>,<pre><code>export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}</code></pre>,<h2>Install cuDNN</h2>,<p>First signup or login into Nvidia developer program and download it: <a href="https://developer.nvidia.com/cudnn">https://developer.nvidia.com/cudnn</a></p>,<p>You should download the following package:</p>,<p><em>Download cuDNN v5.1 (August 10, 2016), for CUDA 8.0 cuDNN v5.1 Library for Linux</em></p>,<p>Uncompress and copy cuDNN to CUDA directory:</p>,<pre><code>tar xvzf cudnn-8.0-linux-x64-v5.1.tgz
+sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*</code></pre>,<p> Now you can already check if CUDA/cuDNN are properly installed:</p>,<pre><code>nvidia-smi
+
+    Sat Oct 15 22:46:05 2016 
+    +-----------------------------------------------------------------------------+
+    | NVIDIA-SMI 367.48 Driver Version: 367.48                                    | 
+    |-------------------------------+----------------------+----------------------+ 
+    | GPU Name Persistence-M        | Bus-Id Disp.A        | Volatile Uncorr. ECC | 
+    | Fan Temp Perf Pwr:Usage/Cap   | Memory-Usage         | GPU-Util Compute M.  | 
+    |===============================+======================+======================| 
+    | 0 GeForce GTX 106... Off      | 0000:01:00.0 On      | N/A                  |
+    | 0% 35C P8 9W / 120W           | 324MiB / 6071MiB     | 1% Default           | 
+    +-------------------------------+----------------------+----------------------+ 
+    +-----------------------------------------------------------------------------+ 
+    | Processes: GPU Memory              | | GPU PID Type Process name Usage      | 
+    |=============================================================================| 
+    | 0 2802 G /usr/lib/xorg/Xorg 167MiB | | 0 3497 G compiz 155MiB               | 
+    +-----------------------------------------------------------------------------+</code></pre>,<p>Check if building CUDA samples works:</p>,<pre><code>cd /usr/local/cuda/samples/5_Simulations/oceanFFT/
+make
+./oceanFFT</code></pre>,<h2>Install TensorFlow</h2>,<p>TensorFlow binaries do not support CUDA 8.0 neither cuDNN 5.1 so we have to build it from source. We're going to build TF as a PIP wheel, so we need PIP installed:</p>,<pre><code>sudo apt-get install python-pip python-dev</code></pre>,<p> Then setup the builder, Bazel, this guy will build the PIP wheel:</p>,<pre><code>sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+echo &quot;deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8&quot; | sudo tee /etc/apt/sources.list.d/bazel.list
+curl https://storage.googleapis.com/bazel-apt/doc/apt-key.pub.gpg | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install bazel
+sudo apt-get upgrade bazel</code></pre>,<p>Install other dependencies:</p>,<pre><code>sudo apt-get install python-numpy swig python-dev python-wheel</code></pre>,<p>Clone TF and configure it:</p>,<pre><code>git clone https://github.com/tensorflow/tensorflow
+cd tensorflow
+./configure # Defaults generally work</code></pre>,<p>Use Bazel to create the PIP package and install it (with GPU support):</p>,<pre><code>bazel build -c opt --config=cuda //tensorflow/tools/pip_package:build_pip_package bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
+sudo pip install /tmp/tensorflow_pkg/tensorflow-0.11.0rc0-py2-none-any.whl</code></pre>,<p>And that's it! Check if your build is working:</p>,<pre><code>cd tensorflow/models/image/mnist
+python convolutional.py</code></pre>]]></description>
             <link>http://automata.cc/installing-nvidia-drivers-cuda-80-and-cudnn-51-for-gtx-10/index.html</link>
             <guid isPermaLink="false">1849efd7-edf3-4d99-8468-65cb37447f6e</guid>
             <pubDate>Mon, 12 Dec 2016 13:40:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A quantitative approach to arts and philosophy]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e2d6ac-664f-41e0-a56d-9c7843ded34d.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/249cb293-c366-48c4-a9bd-89d83bac4bef.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86c3882-5f1a-4554-850a-6dbc9c1a5c57.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e32cc66-a0a0-4be4-affc-7f3cf3eb1c3d.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69295391-86a7-4031-9856-927bc93d5dc9.jpg">]]></description>
+            <link>http://automata.cc/a-quantitative-approach-to-arts-and-philosophy/index.html</link>
+            <guid isPermaLink="false">b44ad5fb-df30-4c0e-bce8-06c294f547de</guid>
+            <pubDate>Mon, 05 Sep 2016 18:24:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Every street in Brazil]]></title>
-            <description><![CDATA[<article><h1>Every street in Brazil</h1><p>Using the extracted PBF from Brazil region made available by Gisgraphy project and following the steps from Dan Burzo - where he draws every street in Romania - I was able to generate the following visualizations of every street in Brazil.</p></article>]]></description>
+            <description><![CDATA[<h1>Every street in Brazil</h1>,<p>Using the extracted <a href="http://download.gisgraphy.com/openstreetmap/pbf/BR.tar.bz2">PBF</a> from Brazil region made available by <a href="http://download.gisgraphy.com/openstreetmap/pbf/">Gisgraphy</a> project and following the <a href="https://github.com/danburzo/every-street">steps</a> from Dan Burzo - where he draws every street in Romania - I was able to generate the following visualizations of every street in Brazil.</p>]]></description>
             <link>http://automata.cc/every-street-in-brazil/index.html</link>
             <guid isPermaLink="false">786ccb44-a1d3-421f-899c-13652d66d702</guid>
             <pubDate>Mon, 05 Sep 2016 18:23:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generative Paintings by Delaunay Triangulation]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9d9050-e86b-4266-9486-cda993404ffa.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9d9050-e86b-4266-9486-cda993404ffa.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81166d4f-9492-4688-9ccb-463502999575.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8294d512-3cdc-40bc-b9b1-9159838f8b98.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e5cd2e2-e7f5-4e60-a3ea-037b24e881d1.jpg">]]></description>
             <link>http://automata.cc/generative-paintings-by-delaunay-triangulation/index.html</link>
             <guid isPermaLink="false">4a2c3329-536c-410f-b69f-8b256084da3c</guid>
             <pubDate>Mon, 05 Sep 2016 18:02:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Genetic programming to shape evolving]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b99a04-99a6-4c74-a773-49ba54e8c955.png">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b99a04-99a6-4c74-a773-49ba54e8c955.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ff2a08-1e72-42cc-b60a-8c026f98cf1c.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48978354-1814-462c-8ce7-60fc519ea063.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e71e4b-4de5-4fb5-b311-82261fab32ac.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bacd6c-2e71-4d6a-852d-9e1f79737b57.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/022ca52e-767a-4c8a-8ab7-b85b86d28c8d.png">]]></description>
             <link>http://automata.cc/genetic-programming-to-shape-evolving/index.html</link>
             <guid isPermaLink="false">677b7721-8220-4cf5-bec0-c4bbc960852d</guid>
             <pubDate>Wed, 31 Aug 2016 22:05:53 GMT</pubDate>
@@ -72,7 +109,7 @@
         </item>
         <item>
             <title><![CDATA[Circles of dots]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2dc6b9-05a2-4329-b565-8b2214a7787a.png">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2dc6b9-05a2-4329-b565-8b2214a7787a.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f2909b7-5d72-4574-b88c-995e3742f6ac.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbdc2766-06be-46c3-acc3-9cb10172f3ea.png">]]></description>
             <link>http://automata.cc/a8c5d89c-a878-4569-b5d0-0d9ee629be8b/index.html</link>
             <guid isPermaLink="false">a8c5d89c-a878-4569-b5d0-0d9ee629be8b</guid>
             <pubDate>Mon, 19 Oct 2015 16:27:39 GMT</pubDate>
