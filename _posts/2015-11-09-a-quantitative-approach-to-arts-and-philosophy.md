@@ -1,12 +1,11 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-09-05T18:24:18.905Z'
-dateModified: '2016-09-05T18:24:18.390Z'
+datePublished: '2017-02-20T18:50:12.227Z'
+dateModified: '2017-02-20T18:50:10.765Z'
 title: ''
 authors: []
 publisher: {}
@@ -14,6 +13,7 @@ sourcePath: _posts/2015-11-09-a-quantitative-approach-to-arts-and-philosophy.md
 author: []
 via: {}
 starred: false
+datePublishedOriginal: '2016-09-05T18:24:18.905Z'
 url: a-quantitative-approach-to-arts-and-philosophy/index.html
 _type: Article
 
