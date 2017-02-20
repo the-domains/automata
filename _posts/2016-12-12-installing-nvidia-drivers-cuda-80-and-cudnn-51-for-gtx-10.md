@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Restart the computer. Screen should has the right resolution now, Nvidia
   drivers should be installed in /usr/local/cuda.
-dateModified: '2017-01-05T19:13:20.848Z'
-datePublished: '2017-01-05T19:13:21.696Z'
+dateModified: '2017-02-20T18:50:10.765Z'
+datePublished: '2017-02-20T18:50:12.242Z'
 title: 'Installing Nvidia drivers, CUDA 8.0 and cuDNN 5.1 for GTX-1060 on Ubuntu 16.04'
 author: []
 publisher: {}
